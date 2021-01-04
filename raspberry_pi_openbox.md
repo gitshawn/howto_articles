@@ -1,4 +1,4 @@
-# Raspberry pi delicious, fast and usable
+# Raspberry pi delicious, fast and usable - Work In Progress
 ### Featuring openbox gui
 ### Tested on a Raspberry pi 4b 4gb
 
